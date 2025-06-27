@@ -4,4 +4,6 @@ p{
 
     background-color: #ccc;
     line-height: 100%;
+    position: relative;
+    font-weight: bold;
 }
